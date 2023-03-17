@@ -1,0 +1,2 @@
+# online_shop_intention_project
+Exploratory Analysis
